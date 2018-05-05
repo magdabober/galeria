@@ -1,0 +1,14 @@
+@media all and (max-width: 992px) {
+    
+    div.gallery div.products {
+        width: 45%;
+        margin: 5px;
+    }
+}
+
+@media all and (max-width: 480px) {
+    
+    div.gallery div.products {
+        width: 95%;
+    }
+}
